@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 import plotly.express as px
 import altair as alt
-from backend.utils.time_conversor import time_to_minutes, time_to_hours
+# from backend.utils.time_conversor import time_to_minutes, time_to_hours
 import time
 
 project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
