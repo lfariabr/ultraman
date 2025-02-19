@@ -1,0 +1,18 @@
+display_columns = [
+                    "id",
+                    "athlete_id",
+                    "race_swim_10km_time",
+                    "race_bike_276km_time",
+                    "race_run_84km_time",
+                    "race_overall_time",
+                    "race_overall_rank",
+                    "race_edition",
+                    "race_date",
+                    "race_location",
+                    "first_name",
+                    "gender",
+                    "eternal_number",
+                    "city",
+                    "state",
+                    "date_of_birth",
+]
