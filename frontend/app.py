@@ -11,8 +11,8 @@ from backend.utils.results_controller import db_controller
 
 # Configure the app
 st.set_page_config(
-    page_title="ub515 fastAPI",
-    page_icon="📊",
+    page_title="UB515",
+    page_icon="🇧🇷",
     layout="wide",
     initial_sidebar_state='collapsed'
 )
